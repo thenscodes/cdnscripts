@@ -1,4 +1,4 @@
 cdnscripts
 ==========
 
-CDN scripts
+CDN scripts (collected)
